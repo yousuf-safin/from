@@ -1,0 +1,66 @@
+.wrapper{
+	width: 40%;
+	margin: 0 auto;
+	border: 5px solid #ddd;
+	background-color: #33C4FF;
+	 border-radius: 15px;
+    outline: 0;
+    padding: 7px 7px 7px 15px;
+	
+}
+#fname,#mail,#pass,#lname{
+	width: 60%;
+	height: 20px;
+	padding: 10px;
+	border: 2px solid grey;
+    border-radius: 10px;
+    outline: 0;
+    padding: 7px 7px 7px 15px;
+	font-size: 23px; 
+
+}
+.title{
+	font-size: 30px;
+	color: white;
+	border: 2px outset grey;
+	background-color: #927DF0;
+}
+.lable,.gleb,.edu,.dob{
+	font-size: 23px;
+	
+
+}
+.btn1,.btn2{
+	font-size: 18px;
+	background-color: white;
+	 border: 1px solid #ddd;
+    border-radius: 10px;
+    outline: 0;
+    padding: 7px 7px 7px 15px;
+	color: black;
+}
+body{
+	background-color: #EDEFF0;
+	background-image: url(../img/background.jpg) ;
+	background-position: cover;
+
+	
+}
+.h6{
+	background-color: white;
+	color: #525455;
+}
+.date,.month,.year{
+	border: 2px solid grey;
+    border-radius: 10px;
+    outline: 0;
+    padding: 7px 7px 7px 15px;
+}
+.male,.female,.ss{
+	font-size: 20px;
+	background-color: #EFF1F1;
+	border: 2px solid grey;
+    border-radius: 10px;
+    outline: 0;
+    padding: 1px 1px 1px 8px;
+}
